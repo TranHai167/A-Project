@@ -13,7 +13,7 @@ This is how my algorithm works:
 ![Points selection](images/select_endpoints.png)
 
 
-3. After clicking find button, algorithm start running. The red refer to visited point while green is waiting point:
+3. After clicking find button, algorithm start running. The red refers to visited point while green is waiting point:
    ![Map selection](images/algorithm_calculating.png)
 
 
